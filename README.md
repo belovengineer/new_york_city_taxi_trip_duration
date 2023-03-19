@@ -2,11 +2,11 @@
 
 [Соревнование на Kaggle](https://www.kaggle.com/competitions/nyc-taxi-trip-duration/overview)
 
-## Оглавление  
-[1. Стек-технологии](https://github.com/belovengineer/new_york_city_taxi_trip_duration/README.md#Стек-технологии)  
-[2. Какой кейс решаем?](https://github.com/belovengineer/new_york_city_taxi_trip_duration/README.md#Какой-кейс-решаем)  
-[3. Краткая информация о данных](https://github.com/belovengineer/new_york_city_taxi_trip_duration/README.md#Краткая-информация-о-данных)  
-[4. Этапы работы над проектом](https://github.com/belovengineer/new_york_city_taxi_trip_duration/README.md#Этапы-работы-над-проектом)  
+### Оглавление  
+[1. Стек-технологии](https://github.com/belovengineer/new_york_city_taxi_trip_duration/README.md###Стек-технологии)  
+[2. Какой кейс решаем?](https://github.com/belovengineer/new_york_city_taxi_trip_duration/README.md###Какой-кейс-решаем)  
+[3. Краткая информация о данных](https://github.com/belovengineer/new_york_city_taxi_trip_duration/README.md###Краткая-информация-о-данных)  
+[4. Этапы работы над проектом](https://github.com/belovengineer/new_york_city_taxi_trip_duration/README.md###Этапы-работы-над-проектом)  
 
 ### Стек-технологии    
 
