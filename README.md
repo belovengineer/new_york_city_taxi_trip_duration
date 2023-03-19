@@ -3,10 +3,10 @@
 [Соревнование на Kaggle](https://www.kaggle.com/competitions/nyc-taxi-trip-duration/overview)
 
 ## Оглавление  
-[1. Стек-технологии](https://github.com/belovengineer/data_science_learn/tree/main/project_3/README.md#Стек-технологии)  
-[2. Какой кейс решаем?](https://github.com/belovengineer/data_science_learn/tree/main/project_3/README.md#Какой-кейс-решаем)  
-[3. Краткая информация о данных](https://github.com/belovengineer/data_science_learn/tree/main/project_3/README.md#Краткая-информация-о-данных)  
-[4. Этапы работы над проектом](https://github.com/belovengineer/data_science_learn/tree/main/project_3/README.md#Этапы-работы-над-проектом)  
+[1. Стек-технологии](https://github.com/belovengineer/new_york_city_taxi_trip_duration/README.md#Стек-технологии)  
+[2. Какой кейс решаем?](https://github.com/belovengineer/new_york_city_taxi_trip_duration/README.md#Какой-кейс-решаем)  
+[3. Краткая информация о данных](https://github.com/belovengineer/new_york_city_taxi_trip_duration/README.md#Краткая-информация-о-данных)  
+[4. Этапы работы над проектом](https://github.com/belovengineer/new_york_city_taxi_trip_duration/README.md#Этапы-работы-над-проектом)  
 
 ### Стек-технологии    
 
@@ -15,7 +15,7 @@
 * Визуализация данных - Matplotlib, Seaborn, Plotly  
 * Машинное обучение - Scikit-learn, XGBoost
 
-:arrow_up:[К оглавлению](https://github.com/belovengineer/data_science_learn/tree/main/project_3/README.md#Оглавление)
+:arrow_up:[К оглавлению](https://github.com/belovengineer/new_york_city_taxi_trip_duration/README.md#Оглавление)
 
 
 ### Какой кейс решаем?  
@@ -57,7 +57,7 @@
 * trip_duration - продолжительность поездки в секундах
 
 
-:arrow_up:[К оглавлению](https://github.com/belovengineer/data_science_learn/tree/main/project_3/README.md#Оглавление)
+:arrow_up:[К оглавлению](https://github.com/belovengineer/new_york_city_taxi_trip_duration/README.md#Оглавление)
 
 
 ### Этапы работы над проектом  
@@ -82,6 +82,6 @@
     6.2. Градиентный бустинг  
 7. XGBoost
 
-:arrow_up:[К оглавлению](https://github.com/belovengineer/data_science_learn/tree/main/project_3/README.md#Оглавление)
+:arrow_up:[К оглавлению](https://github.com/belovengineer/new_york_city_taxi_trip_duration/README.md#Оглавление)
 
 Если информация по этому проекту покажется вам интересной или полезной, то я буду очень вам благодарен, если отметите репозиторий и профиль ⭐️
